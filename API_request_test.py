@@ -9,7 +9,7 @@ import traceback
 
 
 # initialize the Keras REST API endpoint URL
-KERAS_REST_API_URL = "http://172.19.3.173:5000/predict"
+KERAS_REST_API_URL = "http://127.0.0.1:5000/predict"
 #KERAS_REST_API_URL = "http://app02-stg.inwini.com/rvp/predict"
 #KERAS_REST_API_URL = "https://amr-anomaly-ce6ez7jgkq-uc.a.run.app/predict"
 
